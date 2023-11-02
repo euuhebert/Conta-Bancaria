@@ -2,7 +2,7 @@
 
 Este projeto de sistema bancário em Java é uma implementação básica que representa um banco com clientes, contas correntes e contas poupança. A seguir, uma explicação detalhada de cada classe e sua funcionalidade dentro do sistema.
 
-## Diagrama UML:
+## Diagrama UML
 ![Diagrama em branco (3)](https://github.com/euuhebert/Conta-Bancaria/assets/112333883/0ecaf3e6-30ab-47b4-8b44-fe11ca665fd6)
 
 
